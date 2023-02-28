@@ -7,5 +7,5 @@ module.exports = async (req, res) => {
     //     return;
     // }
 
-    res.status(200).set("Content-Type", "text/plain").send(`Hello Andre`);
+    res.status(200).set("Content-Type", "text/plain").send(`Hello Linus`);
 }
